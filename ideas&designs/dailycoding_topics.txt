@@ -1,0 +1,28 @@
+*dailycode{
+	*自制进程/线程锁 half
+	*浏览器对服务器请求高负载/高并发的模拟
+	*base64 en/decode
+	*智能分行
+	*异步非阻塞事件框架
+	*指定大小的文件生成器
+	*nginx - upstream 大文件请求，管道模式
+	*负载均衡算法{
+		http://www.tuicool.com/articles/RJzM7rF
+	}
+	*内核缓冲区偷窥 http://blog.csdn.net/stpeace/article/details/45009927
+	*myHomePage
+	*level/edge sample test
+	*dailycode:二叉树，二叉树深度/广度优先遍历
+	*简单用户注册登录系统
+	*http报文分析
+	*人类做乘法运算
+	*代码高亮
+	*遗传算法实现
+	打印结构和各种戳 done?
+	*内存状态绘制工具
+	*控制cpu核占用率
+	*机器学习玩俄罗斯方块
+	*UnitTest框架
+	*占用内存探测
+	
+}

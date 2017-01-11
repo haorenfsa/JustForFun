@@ -1,0 +1,19 @@
+world setting{
+	a medival-like world.
+	there are kings, governments, armys.
+	everything is built from materials.
+	people devided in 5 countries.
+	people really think and live in the world.
+	people mainly work for living.
+	people have limited max strength that differs randomly. there is a reasonable top strength in every atrribution
+	some people try to hunt in the dungeon, where they get some special materials and gain strength.
+	
+}
+
+map{
+	basic continent and dungeons
+}
+
+creature{
+	humans, home animals, wild animals, monsters
+}

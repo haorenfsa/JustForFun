@@ -1,0 +1,14 @@
+method:阅读方法：{阅读速度理解速度，同理学习方法；}
+动作+物体 简单语法 实现小助手{
+	动作+物体
+	"定义"+概念+解释
+	其它？
+}
+
+lz4可能是目前最快的内存压缩算法？；xmemcpy&memcpy&strcpy
+数据集可视化工具
+百度云产品
+https://cloud.baidu.com/product/bml.html
+开源浏览器
+维护简历和linkedin
+math & physics & opensource work
