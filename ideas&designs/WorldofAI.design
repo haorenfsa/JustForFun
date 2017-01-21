@@ -17,3 +17,80 @@ map{
 creature{
 	humans, home animals, wild animals, monsters
 }
+
+human activities{
+	thoughts{
+		survive, sex, saves, entertain, politics, country
+	}
+	normal action{
+		fight, eat, drink, work, seakfun, take, give, drop, rest
+	}
+	interaction{
+		talk, group, makefriend, marry, makelove, givebirth,
+		launch activitiy, 
+	}
+	crime action{
+		rape,murder,steal,rob
+	}
+}
+
+country act {
+	motivation
+		country survive, citizen survive, repo saves, military strength, country sake on earth.
+	country act{
+		declare war/peace
+		collect tax
+		call the army
+		pay government officers
+		build facilities
+	}
+}
+
+normal jobs{
+	farmer
+	merchant
+	soldier
+	hunter
+	venturer
+	smith
+	doctor
+	teacher
+	student
+	shopkeeper
+	
+	home-wife
+	whore
+	free lancer
+	
+	consultant
+	temp servent
+	fulljob servent
+}
+
+political archtecture{
+	king, minister; duke, load, knight
+}
+
+military units{
+	normal:
+	knight,
+	archer light/medium/heavy same below
+	footman,
+	spikeman,
+	calvery,
+	untraned
+	
+	special:
+	king's guard
+	load's guard
+	asssin
+	champion
+}
+
+//TODO:
+job logic
+potitical logic
+map detail
+item detail
+creature detail
+fight detail
